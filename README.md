@@ -1,5 +1,3 @@
-Resume Classifier <br/>
-
 GitHub: https://github.com/tiffanyho68/Resume-Classifier.git <br/>
 Project Demo: https://youtu.be/3YEI-1tER9Y <br/>
 
